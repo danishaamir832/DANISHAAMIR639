@@ -1,4 +1,4 @@
-![Danish Banner](https://github.com/user-attachments/assets/8e2dc625-ca3b-4fb0-a73f-7aa7de5a5283)
+![Danish Banner](https://github.com/user-attachments/assets/2b432fa3-6321-45a7-bc50-43c8054a507f)
 
 <h1 align="center">
   Hi there, I'm
@@ -41,7 +41,17 @@
 
 📍 India
 ## 👨‍💻 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Java+8+%7C+11+%7C+17;Spring+Boot+Developer;Spring+MVC+%7C+Spring+Security;Microservices+Developer;Angular+Developer;TypeScript+Developer;JavaScript+Developer;HTML5+%7C+CSS3;REST+API+Developer;MySQL+%7C+PostgreSQL;Docker+%7C+Kubernetes;Jenkins+%7C+CI%2FCD;Git+%7C+GitHub+%7C+GitLab;Maven+%7C+Postman+%7C+Swagger;AWS+Cloud+Learner;Open+Source+Contributor;Problem+Solver;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Microservices;Angular+%7C+TypeScript;JavaScript+%7C+HTML5+%7C+CSS3;MySQL+%7C+PostgreSQL;Docker+%7C+Kubernetes;Git+%7C+GitHub+%7C+GitLab;REST+API+%7C+Swagger+%7C+Postman;AWS+Cloud+Learner;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+<h2 align="center">💻 Tech Stack</h2>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,angular,ts,js,html,css,bootstrap,mysql,postgres,docker,kubernetes,jenkins,git,github,gitlab,aws,linux,vscode,idea,postman" />
+</p>
 - 💻 Java Full Stack Developer
 - ☕ Java | Spring Boot | Spring Security | Microservices
 - 🎨 Angular | TypeScript | HTML | CSS | JavaScript
