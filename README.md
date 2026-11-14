@@ -1,9 +1,45 @@
-<img align="right" hspace="30"
-     src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7"
-     alt="MOHAMMAD DANISH"/>
-     <img height="80" src="https://github.com/danishaamir639/ mohammad danish/blob/main/DANISH.PNG"/>
-     <img height="120" src="./DANISH.PNG" alt="Mohammad Danish"/>
-     http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danishaamir639&theme=radical
+![Danish Banner](https://github.com/user-attachments/assets/8e2dc625-ca3b-4fb0-a73f-7aa7de5a5283)
+
+<h1 align="center">
+  Hi there, I'm
+  <a href="https://www.linkedin.com/in/danishaamir639/">
+    Mohammad Danish
+  </a>
+  <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00FF99&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Angular+Developer;Backend+Enthusiast;Always+Learning+New+Technologies"/>
+</p>
+
+<img align="right"
+     width="320"
+     src="./DANISH.PNG"
+     alt="Mohammad Danish"/>
+
+## 👋 About Me
+
+💻 Java Full Stack Developer
+
+☕ Backend: Java 8/11/17, Spring Boot, Spring Security, Spring MVC, Microservices
+
+🎨 Frontend: Angular, TypeScript, JavaScript, HTML5, CSS3
+
+🗄️ Database: MySQL, PostgreSQL
+
+🔗 REST APIs | Postman | Swagger | Maven
+
+🐳 Docker | Kubernetes | Jenkins | CI/CD
+
+🌿 Git | GitHub | GitLab
+
+☁️ Currently Learning AWS & Cloud Technologies
+
+🚀 Passionate about building scalable and enterprise-grade applications.
+
+📫 Email: **danishaamir639@gmail.com**
+
+📍 India
 ## 👨‍💻 About Me
 
 - 💻 Java Full Stack Developer
