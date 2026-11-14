@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=danishaamir639&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-![Danish_page-0001](https://github.com/user-attachments/assets/8e2dc625-ca3b-4fb0-a73f-7aa7de5a5283)
+![Danish_page-0001](https://github.com/user-attachments/assets/DANISH.PNG)
 
 
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/danishaamir639/">Mohammad Danish</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
