@@ -61,12 +61,6 @@
 - 🚀 Passionate about building scalable web applications
 - 📫 Email: **danishaamir639@gmail.com**
 - 📍 India
-- <h2 align="center">💻 Tech Stack</h2>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,html,css,mysql,postgres,docker,kubernetes,git,github,linux,maven,jenkins,vscode"/>
-</p>
-
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=DANISHAAMIR639&show_icons=true&theme=tokyonight&hide_border=true)
