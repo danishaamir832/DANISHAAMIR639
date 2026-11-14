@@ -1,13 +1,9 @@
 <img align="right" hspace="30"
      src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7"
-     alt="Profile Image"
-     width="320"/>
-     <img align="right" width="320" src="./"2b432fa3-6321-45a7-bc50-43c8054a507f.png" alt="Mohammad Danish"/>
-     <img align="right" width="320" src="./images/"2b432fa3-6321-45a7-bc50-43c8054a507f.png" alt="Mohammad Danish"/>
+     alt="MOHAMMAD DANISH"/>
      <img height="80" src="https://github.com/danishaamir639/ mohammad danish/blob/main/DANISH.PNG"/>
      <img height="120" src="./DANISH.PNG" alt="Mohammad Danish"/>
      http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danishaamir639&theme=radical
-     https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DANISHAAMIR639&theme=radical
 ## 👨‍💻 About Me
 
 - 💻 Java Full Stack Developer
