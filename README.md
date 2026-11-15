@@ -1,4 +1,6 @@
-![Danish Banner](https://github.com/user-attachments/assets/2b432fa3-6321-45a7-bc50-43c8054a507f)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00FF99&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Angular+Developer;Backend+Enthusiast;Always+Learning+New+Technologies"/>
+</p>
 <img width="2172" height="724" alt="2b432fa3-6321-45a7-bc50-43c8054a507f" src="https://github.com/user-attachments/assets/9e0e6f6f-b3f7-4485-9ae0-0b2602f4ab22" />
 <h1 align="center">
   Hi there, I'm
@@ -47,7 +49,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Microservices;Angular+%7C+TypeScript;JavaScript+%7C+HTML5+%7C+CSS3;MySQL+%7C+PostgreSQL;Docker+%7C+Kubernetes;Git+%7C+GitHub+%7C+GitLab;REST+API+%7C+Swagger+%7C+Postman;AWS+Cloud+Learner;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-<h2 align="center">💻 Tech Stack</h2>
+
+
+<h1 align="center">💻 TECH STACK </h1>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,angular,ts,js,html,css,bootstrap,mysql,postgres,docker,kubernetes,jenkins,git,github,gitlab,aws,linux,vscode,idea,postman" />
