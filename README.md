@@ -1,5 +1,5 @@
 ![Danish Banner](https://github.com/user-attachments/assets/2b432fa3-6321-45a7-bc50-43c8054a507f)
-
+<img width="2172" height="724" alt="2b432fa3-6321-45a7-bc50-43c8054a507f" src="https://github.com/user-attachments/assets/9e0e6f6f-b3f7-4485-9ae0-0b2602f4ab22" />
 <h1 align="center">
   Hi there, I'm
   <a href="https://www.linkedin.com/in/danishaamir639/">
