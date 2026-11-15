@@ -69,7 +69,7 @@
 <div align="center">
   <h1>
     <a href="https://github.com/danishaamir639">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Grey+Qo&size=50&pause=1000&width=435&color=EBA60E&center=true&vCenter=true&height=70&lines=Hii+There%2C+I'm+Ujjwal+😊" alt="Ujjwal Hii" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Grey+Qo&size=50&pause=1000&width=435&color=EBA60E&center=true&vCenter=true&height=70&lines=Hii+There%2C+I'm+danishaamir639+😊" alt=" MOhammad Danish Hii" />
     </a>
   </h1>
 </div>
@@ -83,66 +83,6 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <p align="left">
-
-
-- <img align='left' src="https://github.com/danishaamir639/danishaamir639/blob/main/Assets_Used/Gifs/Port_Shocking.gif?raw=true" width="25">I’m currently working on 
-![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
-![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=plastic&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-- <img align='left' src="https://github.com/danishaamir639/danishaamir639/blob/main/Assets_Used/Gifs/Port_AngerVolcano.gif" width="25">I work using 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-[![Threejs](https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white)](#)
-
-### My Github Badges
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://github.com/danishaamir639">
-  <img src="https://github.com/danishaamir639/danishaamir639/blob/main/Assets_Used/Github%20Badges/quickdraw-default.png?raw=true" width="100px" height="100px" />
-  <img src="https://github.com/danishaamir639/danishaamir639/blob/main/Assets_Used/Github%20Badges/pair-extraordinaire-default.png?raw=true" width="100px" height="100px" />
-  <img src="https://github.com/danishaamir639/danishaamir639/blob/main/Assets_Used/Github%20Badges/yolo-default.png?raw=true" width="100px" height="100px" />
-  <img src="https://github.com/danishaamir639/danishaamir639/blob/main/Assets_Used/Github%20Badges/pull-shark-default.png?raw=true" width="100px" height="100px" />
-  <img src="https://github.com/danishaamir639/danishaamir639/blob/main/Assets_Used/Github%20Badges/starstruck-default.png?raw=true" width="100px" height="100px" />
-  <img src="https://github.com/danishaamir639/danishaamir639/blob/main/Assets_Used/Github%20Badges/heart-on-your-sleeve-default.png?raw=true" width="100px" height="100px" />
-  <img src="https://github.com/danishaamir639/danishaamir639/blob/main/Assets_Used/Github%20Badges/galaxy-brain-default.png?raw=true" width="100px" height="100px" />
-</a>
-</div>
-
-### My GSSOC(24) Badges
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-  <img src="https://github.com/danishaamir639/danishaamir639/blob/main/Assets_Used/GSsocBadges/Badge4.png?raw=true" width="100px" height="100px" />
-  <img src="https://github.com/danishaamir639/danishaamir639/blob/main/Assets_Used/GSsocBadges/Badge5.png?raw=true" width="100px" height="100px" />
-  <img src="https://github.com/danishaamir639/danishaamir639/blob/main/Assets_Used/GSsocBadges/Badge6.png?raw=true" width="100px" height="100px" />
-  <img src="https://github.com/danishaamir639/danishaamir639/blob/main/Assets_Used/GSsocBadges/PostMan.png?raw=true" width="100px" height="100px" />
-</a>
-</div>
-
-### My Leetcode Badges
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-   <img src="Assets_Used/LeetCodeBadges/2024-50.gif?raw=true" alt="Leetcode 50 Days Badge" width="100px" height="100px" />
-   <img src="Assets_Used/LeetCodeBadges/25-50.gif?raw=true" alt="Leetcode 50 Days Badge" width="100px" height="100px" />
-   <img src="Assets_Used/LeetCodeBadges/25-100.gif?raw=true" alt="Leetcode 100 Days Badge" width="100px" height="100px" />
-   <img src="Assets_Used/LeetCodeBadges/25-200.gif?raw=true" alt="Leetcode 200 Days Badge" width="100px" height="100px" />
-   <img src="Assets_Used/LeetCodeBadges/25-365.gif?raw=true" alt="Leetcode 200 Days Badge" width="100px" height="100px" />
-   <img src="Assets_Used/LeetCodeBadges/2025.gif?raw=true" alt="Leetcode 200 Days Badge" width="100px" height="100px" />
-   <img src="Assets_Used/LeetCodeBadges/StreakCoin.gif?raw=true" alt="Leetcode 50 Days Badge" width="100px" height="100px" />
-   <img src="Assets_Used/LeetCodeBadges/JS30.png?raw=true" alt="Leetcode 50 Days Badge" width="100px" height="100px" />
-</div>
-
-### Github Homely Badges
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://github.com/UjjwalSaini07">
-   <img src="Assets_Used/Svg Badges/Connection.svg" alt="Alt Text" width="80px" height="80px" />
-   <img src="Assets_Used/Svg Badges/Telescope.svg" alt="Alt Text" width="80px" height="80px" />
-   <img src="Assets_Used/Svg Badges/Coding.svg" alt="Alt Text" width="80px" height="80px" />
-   <img src="Assets_Used/Svg Badges/StarFork.svg" alt="Alt Text" width="80px" height="80px" />
-   <img src="Assets_Used/Svg Badges/Helping.svg" alt="Alt Text" width="80px" height="80px" />
-   <img src="Assets_Used/Svg Badges/Discussion.svg" alt="Alt Text" width="80px" height="80px" />
-   <img src="Assets_Used/Svg Badges/PullMerge.svg" alt="Alt Text" width="80px" height="80px" />
-   <img src="Assets_Used/Svg Badges/CodeDeploy.svg" alt="Alt Text" width="80px" height="80px" />
-</a>
-</div>
-
-### My Holopins Badges
-[![An image of @danishaamir639 Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/danishaamir639)](https://holopin.io/@danishaamir639)
 
 
 ##
